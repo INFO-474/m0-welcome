@@ -29,6 +29,9 @@ git checkout complete
 ```
 The `complete` branch of each repo has the completed exercises.  While these were included for your benefit, I **_strongly suggest_** you complete exercises for topics that you aren't completely comfortable with.  Assignments will presume you have mastered the skills of corresponding modules.
 
+## Contributing
+If you would like to contribute to this repository by adding an exercise, making an edit, or suggesting a new module, please [create an issue](https://help.github.com/articles/creating-an-issue/), or make the change in a fork of this repository and [submit a pull request](https://help.github.com/articles/using-pull-requests/).  I expect these resources to be continually improving.
+
 ## Links
 The following links are for students currently enrolled in the course:
 
