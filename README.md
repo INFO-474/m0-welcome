@@ -15,7 +15,7 @@ Welcome to INFO474, Interactive Data Visualization.  This is a course at the Uni
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ## Expectations
-This is an upper-level University course with a number of prerequisite programming and web-programming courses: as such, students will be responsible for a large amount of independent learning, both in terms of managing their own pace, and seeking out new skills.  These modules have been designed to provided an overview of core concepts necessary for success in the course.
+This is an upper-level University course with a number of prerequisite programming and web-programming courses: as such, students will be responsible for a large amount of independent learning, both in terms of managing their own pace, and seeking out new skills.  These modules have been designed to provide an overview of core concepts necessary for success in the course.
 
 
 ## Organization
